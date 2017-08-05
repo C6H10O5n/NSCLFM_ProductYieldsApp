@@ -4,12 +4,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{34352BE0-8544-47B0-A568-BB8BAB947D35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "testapp20170725", "testapp20170725", "{305DA398-9FC4-431E-9F88-652DDBBCED43}"
 	ProjectSection(SolutionItems) = preProject
-		TestApp.txt = TestApp.txt
+		review_version_20170725\review_version_20170725.rar = review_version_20170725\review_version_20170725.rar
+		review_version_20170725\TreeVolumeCalculations.dll = review_version_20170725\TreeVolumeCalculations.dll
+		review_version_20170725\TreeVolumeCalculationsViewer.exe = review_version_20170725\TreeVolumeCalculationsViewer.exe
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{305DA398-9FC4-431E-9F88-652DDBBCED43} = {34352BE0-8544-47B0-A568-BB8BAB947D35}
 	EndGlobalSection
 EndGlobal
